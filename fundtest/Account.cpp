@@ -19,5 +19,6 @@ void Account::setBid(Bid theBid) {
 
 int Account::calcAsset() {
 
+
 }
 
